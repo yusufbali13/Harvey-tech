@@ -1,9 +1,3 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
 .navbar a {
   display: flex !important;
   justify-content: space-between !important;
