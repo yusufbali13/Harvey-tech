@@ -1,13 +1,17 @@
 body {
   overflow-x: hidden !important;
+  font-family: "Bebas Neue", sans-serif;
+  background-color: #af2222;
+  background-image: linear-gradient(147deg, #af2222 52%, #ffe53b 91%);
 }
 
 .banner {
-  background-image: url("https://cdn.joy.ac/i/698179948/fto4.png");
+  background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/2170050/header.jpg?t=1672737979");
   background-size: cover;
   background-repeat: no-repeat;
+  /* width: auto; */
   height: 100vh;
-  padding-top: 15%;
+  padding-top: 25%;
   color: #ac63a5 !important;
 }
 
@@ -27,4 +31,19 @@ body {
 
 .contact {
   background: url("./img/map.jpeg") no-repeat center center !important;
+}
+
+.nav-link:hover {
+  background-color: #bc1414 !important;
+  transition: all 2s !important;
+}
+
+h1 {
+  font-family: "Russo One", sans-serif;
+}
+
+.ulti:hover {
+  opacity: 0.5;
+  transition: all 1s;
+  cursor: pointer;
 }
