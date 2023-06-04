@@ -1,5 +1,9 @@
+body {
+  overflow-x: hidden !important;
+}
+
 .banner {
-  background-image: url("./img/banner.jpeg");
+  background-image: url("https://cdn.joy.ac/i/698179948/fto4.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
