@@ -46,3 +46,14 @@ h1 {
   transition: all 1s;
   cursor: pointer;
 }
+
+.game:hover {
+  opacity: 0.5;
+  transition: all 1s;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #af2222;
+  background-image: linear-gradient(147deg, #af2222 52%) !important;
+}
