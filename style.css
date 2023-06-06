@@ -9,7 +9,6 @@ body {
   background-image: url("https://cdn.akamai.steamstatic.com/steam/apps/2170050/header.jpg?t=1672737979");
   background-size: cover;
   background-repeat: no-repeat;
-  /* width: auto; */
   height: 100vh;
   padding-top: 25%;
   color: #ac63a5 !important;
